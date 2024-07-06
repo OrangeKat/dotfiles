@@ -1,0 +1,5 @@
+vsync = true;
+xrender-sync = true;
+xrender-sync-force = true;
+inactive-opacity = 1.0;
+active-opacity = 1.0;
